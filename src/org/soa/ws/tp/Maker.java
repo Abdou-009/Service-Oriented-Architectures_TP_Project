@@ -7,7 +7,7 @@ import javax.jws.WebService;
 
 
 
-@WebService(name="MiltiServise")
+@WebService(name="MultiServise")
 public interface Maker {
 	
 	@WebMethod(operationName="getMaxValue")
